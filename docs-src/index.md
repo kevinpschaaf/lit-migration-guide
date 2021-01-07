@@ -1,6 +1,6 @@
 ## Polymer → Lit Migration Guide
 
-<script type="module" src="/js/main.bundled.js"></script>
+<script type="module" src="js/main.bundled.js"></script>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap" rel="stylesheet"/>
 
 ### Minimal class
