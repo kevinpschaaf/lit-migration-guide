@@ -1,9 +1,9 @@
 import resolve from '@rollup/plugin-node-resolve';
 
 export default {
-  input: 'site/js/main.js',
+  input: 'docs-src/js/main.js',
   output: {
-    file: '_site/js/main.bundled.js',
+    file: 'docs/js/main.bundled.js',
     format: 'esm',
   },
   onwarn(warning) {

@@ -9,7 +9,7 @@
     "build:js:watch": "rollup -c --watch",
     "build:site": "eleventy",
     "build:site:watch": "eleventy --watch",
-    "serve": "wds -r ./_site",
+    "serve": "wds -r ./docs",
     "go": "npm run build && npm run serve"
   },
   "author": "",
