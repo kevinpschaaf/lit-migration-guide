@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "@material/mwc-icon": "^0.19.1",
-    "playground-elements": "^0.2.0"
+    "playground-elements": "^0.3.6"
   }
 }
